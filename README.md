@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋, I'm Nadzeya
+ - ⚡ [Rolling Scopes School](https://rs.school/) student
+- 💻 recently graduated from JavaScript/Front-end [course]( https://rs.school/courses/javascript)
+ - 💻 currently learning React, Redux, Next.js at React [course]( https://rs.school/courses/reactjs)
 
-<!--
-**timoshenkovanadya/timoshenkovanadya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### ↘️ Completed projects:
+| Project             | Requirements  | Code |   Deploy  |
+| :------------------ | :----: | -----: | -------: |
+| e-Commerce App   (API may not work due to the number of requests being exceeded in the free version)      |  [TR](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/eCommerce-Application) | [Repo]( https://github.com/timoshenkovanadya/eCommerce)  |  [Deploy]( https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/ecommerce/)   |
+| Async Race ([server](https://github.com/mikhama/async-race-api) installation is required)             |  [TR](https://github.com/rolling-scopes-school/tasks/tree/master/stage2/tasks/async-race) | [Repo]( https://github.com/timoshenkovanadya/Async-race/tree/async-race)  |  [Deploy]( https://frabjous-brigadeiros-0144d9.netlify.app/)   |
+| Fun-chat  ([server](https://github.com/rolling-scopes-school/fun-chat-server/tree/main) installation is required) | [TR]( https://github.com/rolling-scopes-school/tasks/blob/master/stage2/tasks/fun-chat/README.md) | [Repo]( https://github.com/timoshenkovanadya/Fun-chat/tree/Fun-chat)  |  [Deploy]( https://timoshenkovanadya-jsfe2023q4-fun-chat.netlify.app/)   |
+| Hangman Game   | [TR](https://github.com/rolling-scopes-school/tasks/tree/master/stage1/tasks/hangman) | [Repo]( https://github.com/timoshenkovanadya/Hangman/tree/hangman)  |  [Deploy]( https://rolling-scopes-school.github.io/timoshenkovanadya-JSFE2023Q4/hangman/)   |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
