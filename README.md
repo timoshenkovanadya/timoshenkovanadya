@@ -7,7 +7,7 @@
 ### ↘️ Completed projects:
 | Project             | Requirements  | Code |   Deploy  |
 | :------------------ | :----: | -----: | -------: |
-| react App  |  [TR](https://github.com/rolling-scopes-school/tasks/blob/master/react/modules/tasks/routing.md) | [Repo]( https://github.com/timoshenkovanadya/react-project)  |  [Deploy](https://66a6acfedd261989b548dcdd--silver-praline-ad115c.netlify.app/page/1)   |
+| react App  |  [TR](https://github.com/rolling-scopes-school/tasks/blob/master/react/modules/tasks/routing.md) | [Repo]( https://github.com/timoshenkovanadya/react-project)  |  [Deploy](https://66a6acfedd261989b548dcdd--silver-praline-ad115c.netlify.app)   |
 | e-Commerce App   (API may not work due to the number of requests being exceeded in the free version)      |  [TR](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/eCommerce-Application) | [Repo]( https://github.com/timoshenkovanadya/eCommerce)  |  [Deploy]( https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/ecommerce/)   |
 | Fun-chat  ([server](https://github.com/rolling-scopes-school/fun-chat-server/tree/main) installation is required) | [TR]( https://github.com/rolling-scopes-school/tasks/blob/master/stage2/tasks/fun-chat/README.md) | [Repo]( https://github.com/timoshenkovanadya/Fun-chat/tree/Fun-chat)  |  [Deploy]( https://timoshenkovanadya-jsfe2023q4-fun-chat.netlify.app/)   |
 | Async Race ([server](https://github.com/mikhama/async-race-api) installation is required)             |  [TR](https://github.com/rolling-scopes-school/tasks/tree/master/stage2/tasks/async-race) | [Repo]( https://github.com/timoshenkovanadya/Async-race/tree/async-race)  |  [Deploy]( https://frabjous-brigadeiros-0144d9.netlify.app/)   |
