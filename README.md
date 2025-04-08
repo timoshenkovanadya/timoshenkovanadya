@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Nadzeya
  - ⚡ [Rolling Scopes School](https://rs.school/) student
-- 💻 recently graduated from JavaScript/Front-end [course]( https://rs.school/courses/javascript)
- - 💻 currently learning React, Redux, Next.js at React [course]( https://rs.school/courses/reactjs)
+- 💻 graduated from JavaScript/Front-end [course]( https://rs.school/courses/javascript)
+ - 💻 graduated from Node.js Andersenlab intensive course
 
 
 ### ↘️ Completed projects:
