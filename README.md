@@ -1,12 +1,13 @@
 ### Hi there 👋, I'm Nadzeya
  - ⚡ [Rolling Scopes School](https://rs.school/) student
 - 💻 graduated from JavaScript/Front-end [course]( https://rs.school/courses/javascript)
- - 💻 graduated from Node.js Andersenlab intensive course
+ - 💻 graduated from Node.js Andersenlab intensive course 
 
 
 ### ↘️ Completed projects:
 | Project             | Requirements  | Code |   Deploy  |
 | :------------------ | :----: | -----: | -------: |
+| Node.js App  |  | [Repo]( https://github.com/timoshenkovanadya/node_4)  |    |
 | React App  |  [TR](https://github.com/rolling-scopes-school/tasks/blob/master/react/modules/tasks/routing.md) | [Repo]( https://github.com/timoshenkovanadya/react-project)  |  [Deploy](https://66a6acfedd261989b548dcdd--silver-praline-ad115c.netlify.app)   |
 | Simple calculator  |  [TR]() | [Repo](https://github.com/timoshenkovanadya/Simple-calculator)  |  [Deploy](https://simple-calculator-test.netlify.app/)   |
 | e-Commerce App   (API may not work due to the number of requests being exceeded in the free version)      |  [TR](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/eCommerce-Application) | [Repo]( https://github.com/timoshenkovanadya/eCommerce)  |  [Deploy]( https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/ecommerce/)   |
