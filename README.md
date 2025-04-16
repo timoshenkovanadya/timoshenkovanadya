@@ -7,7 +7,7 @@
 ### ↘️ Completed projects:
 | Project             | Requirements  | Code |   Deploy  |
 | :------------------ | :----: | -----: | -------: |
-| Node.js App  |  | [Repo]( https://github.com/timoshenkovanadya/node_4)  |    |
+| Node.js App (team project) |  | [Repo](https://github.com/timoshenkovanadya/Bank-info-service)  |    |
 | React App  |  [TR](https://github.com/rolling-scopes-school/tasks/blob/master/react/modules/tasks/routing.md) | [Repo]( https://github.com/timoshenkovanadya/react-project)  |  [Deploy](https://66a6acfedd261989b548dcdd--silver-praline-ad115c.netlify.app)   |
 | Simple calculator  |  [TR]() | [Repo](https://github.com/timoshenkovanadya/Simple-calculator)  |  [Deploy](https://simple-calculator-test.netlify.app/)   |
 | e-Commerce App   (API may not work due to the number of requests being exceeded in the free version)      |  [TR](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/eCommerce-Application) | [Repo]( https://github.com/timoshenkovanadya/eCommerce)  |  [Deploy]( https://rolling-scopes-school.github.io/yourunb-JSFE2023Q4/ecommerce/)   |
